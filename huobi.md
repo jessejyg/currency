@@ -188,3 +188,4 @@ M2流动性偏弱，但反映的是社会总需求的变化和未来通货膨胀
 
 [http://news-back.idbhost.com/news/upload/2016/08/26/htbi6es3r4.htm]
 [https://www.zhihu.com/topic/20010373/hot]
+[https://wiki.mbalib.com/wiki/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7]
