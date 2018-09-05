@@ -10,7 +10,7 @@
 
 注:[布雷顿深林体系](https://zh.wikipedia.org/zh/%E5%B8%83%E9%9B%B7%E9%A1%BF%E6%A3%AE%E6%9E%97%E4%BD%93%E7%B3%BB)
 
-### 2.1 现代信用货币的产生
+### 2.1 现代信用货币的产生
 #### 2.1.1 复式记账法
 <font color=rgb(255,105,0) size=3>Asset（资产）= Liability（负债）+ Equity（股东权益）</font>
 
@@ -25,7 +25,7 @@
 
     Asset中的现金减少5W，Credit
 
-    Asset中的固定资产增加5W, Debit
+    Asset中的固定资产增加5W, Debit
 
 3. 公司A向XX购买了5万元的服务器,打的借条没给现金
 
@@ -35,7 +35,7 @@
 
     Liability（负债）增加了5万
 
-#### 2.1.2 商业银行货币派生
+#### 2.1.2 商业银行货币派生
 
 >中国目前的银行体制采用的是从1984年后开始实行的央行与商业银行两级银行体制。央行指的是中国人民银行，它位于整个金融体系的中心，负责制定和实施货币政策、对金融进行监督管理，央行是国家机关，同时它也是银行的银行，就是央行能够向商业银行贷款，同时商业银行能够向央行存款；商业银行是企业，一种只和钱打交道的特殊企业，通过存款、贷款、汇兑、储蓄等方式开展信用中介的企业，它在业务上受央行的监督和管理。既然是企业就有所有制差别，所以商业银行又分为五大国有银行（工行、农行、中行、建行、交行），若干股份制银行（中兴、招商、浦发、民生等），少量民营银行（北京银行、南京银行、宁波银行等).
 
@@ -50,7 +50,7 @@
 <table width="460">
     <h5>A银行资产负债表(单位:万元)</h5>
         <tr>
-            <th width="230" align="left" colspan="2">资产(贷)</th>
+            <th width="230" align="left" colspan="2">资产(贷)</th>
             <th width="230" align="left" colspan="2">负债(借)</th>
         </tr>
         <tr>
@@ -60,7 +60,7 @@
             <th align="right">100</th>
         </tr>
         <tr>
-            <th align="left">存款准备金</th>
+            <th align="left">存款准备金</th>
             <th align="right">20</th>
             <th align="left"></th>
             <th align="right"></th>
@@ -79,7 +79,7 @@
 <table width="460">
     <h5>A银行资产负债表(单位:万元)</h5>
         <tr>
-            <th width="230" align="left" colspan="2">资产(贷)</th>
+            <th width="230" align="left" colspan="2">资产(贷)</th>
             <th width="230" align="left" colspan="2">负债(借)</th>
         </tr>
         <tr>
@@ -93,7 +93,7 @@
             <th align="right">64</th>
         </tr>
         <tr>
-            <th align="left">存款准备金</th>
+            <th align="left">存款准备金</th>
             <th align="right">36</th>
         </tr>
         <tr>
@@ -109,7 +109,7 @@
 <table width="460">
     <h5>A银行资产负债表(单位:万元)</h5>
         <tr>
-            <th width="230" align="left" colspan="2">资产(贷)</th>
+            <th width="230" align="left" colspan="2">资产(贷)</th>
             <th width="230" align="left" colspan="2">负债(借)</th>
         </tr>
         <tr>
@@ -123,7 +123,7 @@
             <th align="right">51.2</th>
         </tr>
         <tr>
-            <th align="left">存款准备金</th>
+            <th align="left">存款准备金</th>
             <th align="right">48.8</th>
         </tr>
         <tr>
